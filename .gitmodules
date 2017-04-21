@@ -1,0 +1,27 @@
+[submodule "htdocs/of"]
+	path = htdocs/of
+	url = git@github.com:ATM-Consulting/dolibarr_module_of.git
+[submodule "htdocs/dispatch"]
+	path = htdocs/dispatch
+	url = git@github.com:ATM-Consulting/dolibarr_module_dispatch.git
+[submodule "htdocs/nomenclature"]
+	path = htdocs/nomenclature
+	url = git@github.com:ATM-Consulting/dolibarr_module_nomenclature.git
+[submodule "htdocs/asset"]
+	path = htdocs/asset
+	url = git@github.com:ATM-Consulting/dolibarr_module_asset.git
+[submodule "htdocs/routing"]
+	path = htdocs/routing
+	url = git@github.com:ATM-Consulting/dolibarr_module_routing.git
+[submodule "htdocs/ordo"]
+	path = htdocs/ordo
+	url = git@github.com:ATM-Consulting/dolibarr_module_ordo.git
+[submodule "htdocs/tasklist"]
+	path = htdocs/tasklist
+	url = git@github.com:ATM-Consulting/dolibarr_module_tasklist.git
+[submodule "htdocs/workstation"]
+	path = htdocs/workstation
+	url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
+[submodule "htdocs/supplierorderfromorder"]
+	path = htdocs/supplierorderfromorder
+	url = git@github.com:ATM-Consulting/dolibarr_module_supplierorderfromorder.git
