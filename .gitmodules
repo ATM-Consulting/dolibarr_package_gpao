@@ -25,3 +25,6 @@
 [submodule "htdocs/supplierorderfromorder"]
 	path = htdocs/supplierorderfromorder
 	url = git@github.com:ATM-Consulting/dolibarr_module_supplierorderfromorder.git
+[submodule "htdocs/abricot"]
+	path = htdocs/abricot
+	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
