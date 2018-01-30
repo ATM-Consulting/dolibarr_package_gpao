@@ -13,9 +13,6 @@
 [submodule "htdocs/routing"]
 	path = htdocs/routing
 	url = git@github.com:ATM-Consulting/dolibarr_module_routing.git
-[submodule "htdocs/ordo"]
-	path = htdocs/ordo
-	url = git@github.com:ATM-Consulting/dolibarr_module_ordo.git
 [submodule "htdocs/tasklist"]
 	path = htdocs/tasklist
 	url = git@github.com:ATM-Consulting/dolibarr_module_tasklist.git
@@ -28,3 +25,6 @@
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
 	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
+[submodule "htdocs/gantt"]
+	path = htdocs/gantt
+	url = git@github.com:ATM-Consulting/dolibarr_module_gantt.git
