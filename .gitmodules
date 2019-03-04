@@ -8,7 +8,7 @@
 	path = htdocs/nomenclature
 	url = git@github.com:ATM-Consulting/dolibarr_module_nomenclature.git
 [submodule "htdocs/asset"]
-	path = htdocs/asset
+	path = htdocs/assetatm
 	url = git@github.com:ATM-Consulting/dolibarr_module_asset.git
 [submodule "htdocs/routing"]
 	path = htdocs/routing
