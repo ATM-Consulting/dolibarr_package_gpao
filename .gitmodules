@@ -21,7 +21,7 @@
 [submodule "htdocs/tasklist"]
 	path = htdocs/tasklist
 	url = git@github.com:ATM-Consulting/dolibarr_module_tasklist.git
-	branch = 2.0
+	branch = 2.3
 [submodule "htdocs/workstation"]
 	path = htdocs/workstation
 	url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
