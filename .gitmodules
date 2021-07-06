@@ -1,19 +1,19 @@
 [submodule "htdocs/of"]
 	path = htdocs/of
 	url = git@github.com:ATM-Consulting/dolibarr_module_of.git
-	branch = 1.15
+	branch = 1.18
 [submodule "htdocs/dispatch"]
 	path = htdocs/dispatch
 	url = git@github.com:ATM-Consulting/dolibarr_module_dispatch.git
-	branch = 3.4
+	branch = 3.5
 [submodule "htdocs/nomenclature"]
 	path = htdocs/nomenclature
 	url = git@github.com:ATM-Consulting/dolibarr_module_nomenclature.git
-	branch = 3.0
+	branch = 3.2
 [submodule "htdocs/assetatm"]
 	path = htdocs/assetatm
 	url = git@github.com:ATM-Consulting/dolibarr_module_asset.git
-	branch = 3.0
+	branch = 3.4
 [submodule "htdocs/routing"]
 	path = htdocs/routing
 	url = git@github.com:ATM-Consulting/dolibarr_module_routing.git
@@ -21,11 +21,11 @@
 [submodule "htdocs/tasklist"]
 	path = htdocs/tasklist
 	url = git@github.com:ATM-Consulting/dolibarr_module_tasklist.git
-	branch = 2.0
+	branch = 2.3
 [submodule "htdocs/workstation"]
 	path = htdocs/workstation
 	url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
-	branch = 1.3
+	branch = 1.4
 [submodule "htdocs/supplierorderfromorder"]
 	path = htdocs/supplierorderfromorder
 	url = git@github.com:ATM-Consulting/dolibarr_module_supplierorderfromorder.git
@@ -33,8 +33,4 @@
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
 	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
-	branch = master
-[submodule "htdocs/gantt"]
-	path = htdocs/gantt
-	url = git@github.com:ATM-Consulting/dolibarr_module_gantt.git
-	branch = 1.3
+	branch = 3.2
