@@ -14,10 +14,6 @@
 	path = htdocs/assetatm
 	url = git@github.com:ATM-Consulting/dolibarr_module_asset.git
 	branch = 3.7
-[submodule "htdocs/routing"]
-	path = htdocs/routing
-	url = git@github.com:ATM-Consulting/dolibarr_module_routing.git
-	branch = 1.0
 [submodule "htdocs/tasklist"]
 	path = htdocs/tasklist
 	url = git@github.com:ATM-Consulting/dolibarr_module_tasklist.git
