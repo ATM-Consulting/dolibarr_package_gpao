@@ -9,7 +9,7 @@
 [submodule "htdocs/nomenclature"]
 	path = htdocs/nomenclature
 	url = git@github.com:ATM-Consulting/dolibarr_module_nomenclature.git
-	branch = 4.8
+	branch = 4.9
 [submodule "htdocs/assetatm"]
 	path = htdocs/assetatm
 	url = git@github.com:ATM-Consulting/dolibarr_module_asset.git
@@ -25,8 +25,8 @@
 [submodule "htdocs/supplierorderfromorder"]
 	path = htdocs/supplierorderfromorder
 	url = git@github.com:ATM-Consulting/dolibarr_module_supplierorderfromorder.git
-	branch = 2.4
+	branch = 2.5
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
 	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
-	branch = 3.4
+	branch = 3.5
